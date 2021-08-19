@@ -1,0 +1,7 @@
+{
+	"extends": "@soltera/eslint-config",
+	"root": true,
+	"parserOptions": {
+		"project": "./tsconfig.json"
+	}
+}
