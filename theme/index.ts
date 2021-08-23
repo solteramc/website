@@ -16,5 +16,6 @@ export const GlobalStyle = createGlobalStyle`
         margin: 0;
         background: ${(props) => props.theme.background};
         color: ${(props) => props.theme.primary};
+        font-family: "Roboto";
     }
 `;
